@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "도안 연습장",
+    "slug": "knit-chart-practice",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "knitchartpractice",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.konayeon11.knitchartpractice"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.konayeon11.knitchartpractice"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
