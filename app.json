@@ -22,7 +22,16 @@
       "package": "com.konayeon11.knitchartpractice"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "output": "single",
+      "name": "도안 연습장",
+      "shortName": "도안연습장",
+      "themeColor": "#8A5A2B",
+      "backgroundColor": "#FAF7F2",
+      "display": "standalone"
+    },
+    "experiments": {
+      "baseUrl": "/knit"
     }
   }
 }
